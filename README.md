@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Cloud native projects**
 
-- 💬 Ask me about **Java, Spring Boot**
+- 💬 Ask me about **DevOps**
 
 - 📫 How to reach me **www.linkedin.com/in/mamadou-makadji-diarra**
 
